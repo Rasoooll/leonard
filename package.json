@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mathieuc/tradingview": "^3.3.3",
+    "ccxt": "^2.1.61",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
