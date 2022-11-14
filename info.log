@@ -1,0 +1,1623 @@
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:16:52.955Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:16:52.960Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:16:52.962Z"}
+{"level":"info","message":"last ETH Price: 1219.85","timestamp":"2022-11-13T22:16:53.491Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -2.05 $  -13.82 %  / liq price : 1119.45","timestamp":"2022-11-13T22:16:54.161Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.32 $  6.52 %  / liq price : 1295.35","timestamp":"2022-11-13T22:16:54.162Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:19:05.175Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:19:05.180Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:19:05.182Z"}
+{"level":"info","message":"last ETH Price: 1220.35","timestamp":"2022-11-13T22:19:05.741Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:19:05.773Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:19:05.775Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.99 $  -13.42 %  / liq price : 1119.45","timestamp":"2022-11-13T22:19:06.826Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.30 $  6.11 %  / liq price : 1295.35","timestamp":"2022-11-13T22:19:06.828Z"}
+{"level":"info","message":"new info ... ","timestamp":"2022-11-13T22:20:22.141Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:20:29.544Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:20:29.546Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:20:29.547Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -2.06 $  -13.91 %  / liq price : 1119.45","timestamp":"2022-11-13T22:20:30.008Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.32 $  6.60 %  / liq price : 1295.35","timestamp":"2022-11-13T22:20:30.010Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:20:30.056Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:20:30.059Z"}
+{"level":"info","message":"last ETH Price: 1219.75","timestamp":"2022-11-13T22:20:30.775Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:44.882Z"}
+{"level":"info","message":"new info ... ","timestamp":"2022-11-13T22:23:44.885Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:52.695Z"}
+{"level":"info","message":"Balances : ","timestamp":"2022-11-13T22:23:52.697Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:52.699Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:23:52.700Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:23:52.703Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:23:52.705Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:53.282Z"}
+{"level":"info","message":"last ETH Price: 1222.1","timestamp":"2022-11-13T22:23:53.284Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:53.297Z"}
+{"level":"info","message":"***** Active Orders","timestamp":"2022-11-13T22:23:53.299Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:53.300Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:23:53.302Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:53.303Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:23:53.304Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:54.374Z"}
+{"level":"info","message":"**** Posisions","timestamp":"2022-11-13T22:23:54.375Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:54.376Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.78 $  -12.01 %  / liq price : 1119.45","timestamp":"2022-11-13T22:23:54.378Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:23:54.378Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.23 $  4.68 %  / liq price : 1295.35","timestamp":"2022-11-13T22:23:54.379Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:16.002Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:26:16.004Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.158Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:26:23.160Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.162Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:26:23.164Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:26:23.173Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:26:23.175Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.513Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:26:23.515Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.516Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:26:23.518Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.519Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:26:23.521Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:23.667Z"}
+{"level":"info","message":"last ETH Price: 1223.25","timestamp":"2022-11-13T22:26:23.669Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:24.333Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:26:24.334Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:24.335Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.78 $  -12.01 %  / liq price : 1119.45","timestamp":"2022-11-13T22:26:24.336Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:26:24.336Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.23 $  4.68 %  / liq price : 1295.35","timestamp":"2022-11-13T22:26:24.337Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:50.442Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:28:50.445Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.141Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:28:57.142Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.143Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:28:57.145Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:28:57.146Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:28:57.148Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.788Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:28:57.789Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.790Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:28:57.791Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.792Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:28:57.793Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:57.956Z"}
+{"level":"info","message":"last ETH Price: 1223.45","timestamp":"2022-11-13T22:28:57.958Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:58.976Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:28:58.977Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:58.978Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.61 $  -10.87 %  / liq price : 1119.45","timestamp":"2022-11-13T22:28:58.979Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:58.980Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.17 $  3.54 %  / liq price : 1295.35","timestamp":"2022-11-13T22:28:58.981Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:59.375Z"}
+{"l1":1230.5283,"l2":1218.1588000000002,"l3":1205.7893000000001,"l4":1168.6808,"level":"info","liquidity":1119.2028,"timestamp":"2022-11-13T22:28:59.380Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:28:59.380Z"}
+{"l1":1234.2170999999998,"l2":1246.4956,"l3":1258.7740999999999,"l4":1295.6096,"level":"info","liquidity":1344.7235999999998,"timestamp":"2022-11-13T22:28:59.384Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:51.439Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:32:51.441Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:59.248Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:32:59.249Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:59.250Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:32:59.251Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:32:59.252Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:32:59.254Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:59.722Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:32:59.724Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:59.725Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:32:59.726Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:32:59.727Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:32:59.729Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:00.117Z"}
+{"level":"info","message":"last ETH Price: 1224.75","timestamp":"2022-11-13T22:33:00.119Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:01.017Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:33:01.018Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:01.019Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.46 $  -9.82 %  / liq price : 1119.45","timestamp":"2022-11-13T22:33:01.020Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:01.021Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.12 $  2.48 %  / liq price : 1295.35","timestamp":"2022-11-13T22:33:01.022Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:01.528Z"}
+{"l1":null,"l2":null,"l3":null,"l4":null,"level":"info","liquidity":null,"timestamp":"2022-11-13T22:33:01.532Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:33:01.532Z"}
+{"l1":1234.22,"l2":1246.5,"l3":1258.77,"l4":1295.61,"level":"info","liquidity":1344.72,"timestamp":"2022-11-13T22:33:01.535Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:16.017Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:35:16.019Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:24.036Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:35:24.037Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:24.038Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:35:24.039Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:35:24.041Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:35:24.042Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:24.641Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:35:24.643Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:24.644Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:35:24.646Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:24.647Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:35:24.648Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:25.351Z"}
+{"level":"info","message":"last ETH Price: 1223.75","timestamp":"2022-11-13T22:35:25.353Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:25.503Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:35:25.505Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:25.506Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.58 $  -10.63 %  / liq price : 1119.45","timestamp":"2022-11-13T22:35:25.507Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:25.508Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.16 $  3.30 %  / liq price : 1295.35","timestamp":"2022-11-13T22:35:25.511Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:26.243Z"}
+{"l1":null,"l2":null,"l3":null,"l4":null,"level":"info","liquidity":null,"timestamp":"2022-11-13T22:35:26.246Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:35:26.247Z"}
+{"l1":1234.22,"l2":1246.5,"l3":1258.77,"l4":1295.61,"level":"info","liquidity":1344.72,"timestamp":"2022-11-13T22:35:26.250Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:42.306Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:36:42.309Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:49.853Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:36:49.854Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:49.855Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:36:49.856Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:36:49.858Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:36:49.859Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.429Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:36:50.430Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.430Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.55 $  -10.47 %  / liq price : 1119.45","timestamp":"2022-11-13T22:36:50.431Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.432Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.15 $  3.14 %  / liq price : 1295.35","timestamp":"2022-11-13T22:36:50.433Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.450Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:36:50.451Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.452Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:36:50.453Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:50.453Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:36:50.454Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:51.154Z"}
+{"level":"info","message":"last ETH Price: 1223.95","timestamp":"2022-11-13T22:36:51.154Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:52.818Z"}
+{"l1":0,"l2":0,"l3":0,"l4":0,"level":"info","liquidity":0,"timestamp":"2022-11-13T22:36:52.821Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:36:52.822Z"}
+{"l1":1234.22,"l2":1246.5,"l3":1258.77,"l4":1295.61,"level":"info","liquidity":1344.72,"timestamp":"2022-11-13T22:36:52.825Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:31.763Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:37:31.765Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:40.276Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:37:40.277Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:40.279Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:37:40.281Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:37:40.283Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:37:40.284Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:40.748Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:37:40.751Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:40.753Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:37:40.760Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:40.761Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:37:40.764Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:41.412Z"}
+{"level":"info","message":"last ETH Price: 1225.15","timestamp":"2022-11-13T22:37:41.413Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:41.529Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:37:41.530Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:41.530Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.42 $  -9.54 %  / liq price : 1119.45","timestamp":"2022-11-13T22:37:41.531Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:41.532Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.11 $  2.20 %  / liq price : 1295.35","timestamp":"2022-11-13T22:37:41.532Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:42.377Z"}
+{"l1":1230.5283,"l2":1218.1588000000002,"l3":1205.7893000000001,"l4":1168.6808,"level":"info","liquidity":1119.2028,"timestamp":"2022-11-13T22:37:42.382Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:37:42.383Z"}
+{"l1":1234.2170999999998,"l2":1246.4956,"l3":1258.7740999999999,"l4":1295.6096,"level":"info","liquidity":1344.7235999999998,"timestamp":"2022-11-13T22:37:42.385Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:40.456Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:38:40.458Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:48.441Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:38:48.443Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:48.445Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:38:48.446Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:38:48.449Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:38:48.451Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:48.924Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:38:48.926Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:48.927Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:38:48.929Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:48.930Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:38:48.931Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:49.120Z"}
+{"level":"info","message":"last ETH Price: 1225.6","timestamp":"2022-11-13T22:38:49.122Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:50.081Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:38:50.082Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:50.083Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.37 $  -9.22 %  / liq price : 1119.45","timestamp":"2022-11-13T22:38:50.085Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:50.085Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.09 $  1.87 %  / liq price : 1295.35","timestamp":"2022-11-13T22:38:50.087Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:50.602Z"}
+{"l1":1230.53,"l2":1218.16,"l3":1205.79,"l4":1168.68,"level":"info","liquidity":1119.2,"timestamp":"2022-11-13T22:38:50.606Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:38:50.607Z"}
+{"l1":1234.2170999999998,"l2":1246.4956,"l3":1258.7740999999999,"l4":1295.6096,"level":"info","liquidity":1344.7235999999998,"timestamp":"2022-11-13T22:38:50.611Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:33.597Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:39:33.599Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:41.500Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:39:41.501Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:41.501Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:39:41.502Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:39:41.503Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:39:41.505Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:41.852Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:39:41.855Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:41.856Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:39:41.858Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:41.860Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:39:41.863Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:42.911Z"}
+{"level":"info","message":"last ETH Price: 1224.8","timestamp":"2022-11-13T22:39:42.912Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:42.931Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:39:42.931Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:42.932Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.46 $  -9.82 %  / liq price : 1119.45","timestamp":"2022-11-13T22:39:42.932Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:42.933Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.12 $  2.48 %  / liq price : 1295.35","timestamp":"2022-11-13T22:39:42.933Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:43.424Z"}
+{"l1":1230.53,"l2":1218.16,"l3":1205.79,"l4":1168.68,"level":"info","liquidity":1119.2,"timestamp":"2022-11-13T22:39:43.429Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:39:43.430Z"}
+{"l1":1234.22,"l2":1246.5,"l3":1258.77,"l4":1295.61,"level":"info","liquidity":1344.72,"timestamp":"2022-11-13T22:39:43.432Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:12.829Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:43:12.830Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.400Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:43:20.401Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.402Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:43:20.403Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:43:20.404Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:43:20.405Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.922Z"}
+{"level":"info","message":"last ETH Price: 1225.7","timestamp":"2022-11-13T22:43:20.923Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.934Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:43:20.936Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.937Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:43:20.939Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:20.940Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:43:20.942Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:21.653Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:43:21.654Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:21.655Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.35 $  -9.09 %  / liq price : 1119.45","timestamp":"2022-11-13T22:43:21.655Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:21.656Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.09 $  1.75 %  / liq price : 1295.35","timestamp":"2022-11-13T22:43:21.656Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:43:22.495Z"}
+{"l1":1230.53,"l2":1218.16,"l3":1205.79,"l4":1168.68,"level":"info","liquidity":1119.2,"timestamp":"2022-11-13T22:43:22.500Z"}
+{"l1":1234.22,"l2":1246.5,"l3":1258.77,"l4":1295.61,"level":"info","liquidity":1344.72,"timestamp":"2022-11-13T22:43:22.503Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:47.077Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:47.079Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:54.670Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:54.672Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:54.674Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:54.676Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:54.679Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:54.682Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.042Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.044Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.045Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.047Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.048Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.051Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.750Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.751Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.955Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.956Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.957Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.957Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:55.958Z"}
+{"level":"info","message":"","timestamp":"2022-11-13T22:45:55.958Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:45:56.575Z"}
+{"level":"info","message":"l1=1230.53&l2=1218.16&l3=1205.79&l4=1168.68&liquidity=1119.2","timestamp":"2022-11-13T22:45:56.578Z"}
+{"level":"info","message":"l1=1234.22&l2=1246.5&l3=1258.77&l4=1295.61&liquidity=1344.72","timestamp":"2022-11-13T22:45:56.580Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:26.765Z"}
+{"level":"info","message":" #####  new fetch ##### ","timestamp":"2022-11-13T22:46:26.768Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:34.790Z"}
+{"level":"info","message":"********** Balances : ","timestamp":"2022-11-13T22:46:34.792Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:34.793Z"}
+{"level":"info","message":"Used To Total : 30.02 % ","timestamp":"2022-11-13T22:46:34.795Z"}
+{"level":"info","message":"Free To Total : 30.02 % ","timestamp":"2022-11-13T22:46:34.797Z"}
+{"level":"info","message":"Used To Free : 233.09 % ","timestamp":"2022-11-13T22:46:34.799Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:35.282Z"}
+{"level":"info","message":"********** Active Orders","timestamp":"2022-11-13T22:46:35.284Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:35.285Z"}
+{"level":"info","message":"price : 1172 / amount: 0.12 / side: buy","timestamp":"2022-11-13T22:46:35.287Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:35.288Z"}
+{"level":"info","message":"price : 1652 / amount: 0.05 / side: sell","timestamp":"2022-11-13T22:46:35.289Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:35.423Z"}
+{"level":"info","message":"last ETH Price: 1224.75","timestamp":"2022-11-13T22:46:35.425Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:36.046Z"}
+{"level":"info","message":"********** Posisions","timestamp":"2022-11-13T22:46:36.047Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:36.048Z"}
+{"level":"info","message":" # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.43 $  -9.66 %  / liq price : 1119.45","timestamp":"2022-11-13T22:46:36.049Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:36.050Z"}
+{"level":"info","message":" # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.11 $  2.32 %  / liq price : 1295.35","timestamp":"2022-11-13T22:46:36.051Z"}
+{"level":"info","message":"----------------------- ","timestamp":"2022-11-13T22:46:37.028Z"}
+{"level":"info","message":"[object Object]","timestamp":"2022-11-13T22:46:37.032Z"}
+{"level":"info","message":"[object Object]","timestamp":"2022-11-13T22:46:37.036Z"}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:11.312Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-13T22:48:11.316Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:20.872Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T22:48:20.875Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:20.882Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 30.02 % ',
+  timestamp: '2022-11-13T22:48:20.884Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 30.02 % ',
+  timestamp: '2022-11-13T22:48:20.890Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 233.09 % ',
+  timestamp: '2022-11-13T22:48:20.895Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.431Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-13T22:48:21.434Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.435Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-13T22:48:21.437Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.439Z'
+}
+{
+  level: 'info',
+  message: 'price : 1652 / amount: 0.05 / side: sell',
+  timestamp: '2022-11-13T22:48:21.441Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.448Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-13T22:48:21.449Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.450Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.23 $  -8.26 %  / liq price : 1119.45',
+  timestamp: '2022-11-13T22:48:21.451Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:21.452Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.04 $  0.91 %  / liq price : 1295.35',
+  timestamp: '2022-11-13T22:48:21.457Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:22.395Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1226.55',
+  timestamp: '2022-11-13T22:48:22.396Z'
+}
+{
+  level: 'info',
+  message: '----------------------- ',
+  timestamp: '2022-11-13T22:48:24.111Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-13T22:48:24.115Z'
+}
+{
+  l1: 1234.22,
+  l2: 1246.5,
+  l3: 1258.77,
+  l4: 1295.61,
+  liquidity: 1344.72,
+  level: 'info',
+  timestamp: '2022-11-13T22:48:24.118Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-13T22:49:30.318Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T22:49:38.562Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 30.02 % ',
+  timestamp: '2022-11-13T22:49:38.565Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 30.02 % ',
+  timestamp: '2022-11-13T22:49:38.567Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 233.09 % ',
+  timestamp: '2022-11-13T22:49:38.569Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1227.35',
+  timestamp: '2022-11-13T22:49:39.431Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-13T22:49:39.445Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-13T22:49:39.447Z'
+}
+{
+  level: 'info',
+  message: 'price : 1652 / amount: 0.05 / side: sell',
+  timestamp: '2022-11-13T22:49:39.449Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-13T22:49:40.396Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.15 $  -7.73 %  / liq price : 1119.45',
+  timestamp: '2022-11-13T22:49:40.398Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.02 $  0.37 %  / liq price : 1295.35',
+  timestamp: '2022-11-13T22:49:40.399Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-13T22:49:41.645Z'
+}
+{
+  l1: 1234.22,
+  l2: 1246.5,
+  l3: 1258.77,
+  l4: 1295.61,
+  liquidity: 1344.72,
+  level: 'info',
+  timestamp: '2022-11-13T22:49:41.649Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-13T23:16:09.556Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T23:16:18.680Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:16:18.682Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:16:18.683Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 201.50 % ',
+  timestamp: '2022-11-13T23:16:18.685Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-13T23:16:19.015Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-13T23:16:19.019Z'
+}
+{
+  level: 'info',
+  message: 'price : 1275 / amount: 0.05 / side: sell',
+  timestamp: '2022-11-13T23:16:19.021Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-13T23:16:19.225Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -2.12 $  -14.25 %  / liq price : 1119.45',
+  timestamp: '2022-11-13T23:16:19.228Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.34 $  6.95 %  / liq price : 1295.35',
+  timestamp: '2022-11-13T23:16:19.231Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1219.4',
+  timestamp: '2022-11-13T23:16:19.935Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-13T23:16:20.652Z'
+}
+{
+  l1: 1234.22,
+  l2: 1246.5,
+  l3: 1258.77,
+  l4: 1295.61,
+  liquidity: 1344.72,
+  level: 'info',
+  timestamp: '2022-11-13T23:16:20.656Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-13T23:24:01.094Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T23:24:09.953Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:24:09.954Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:24:09.955Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 201.50 % ',
+  timestamp: '2022-11-13T23:24:09.956Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-13T23:24:10.336Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-13T23:24:10.341Z'
+}
+{
+  level: 'info',
+  message: 'price : 1275 / amount: 0.05 / side: sell',
+  timestamp: '2022-11-13T23:24:10.345Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1224.15',
+  timestamp: '2022-11-13T23:24:10.418Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-13T23:24:11.257Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.54 $  -10.35 %  / liq price : 1119.45',
+  timestamp: '2022-11-13T23:24:11.260Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.15 $  3.01 %  / liq price : 1295.35',
+  timestamp: '2022-11-13T23:24:11.263Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-13T23:24:11.858Z'
+}
+{
+  l1: 1234.22,
+  l2: 1246.5,
+  l3: 1258.77,
+  l4: 1295.61,
+  liquidity: 1344.72,
+  level: 'info',
+  timestamp: '2022-11-13T23:24:11.862Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T23:24:13.014Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:24:13.017Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:24:13.019Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 201.50 % ',
+  timestamp: '2022-11-13T23:24:13.020Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1224.1',
+  timestamp: '2022-11-13T23:24:13.969Z'
+}
+{ level: 'info', message: 0.5, timestamp: '2022-11-13T23:24:13.971Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-13T23:25:29.476Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T23:25:37.061Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:25:37.062Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:25:37.063Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 201.50 % ',
+  timestamp: '2022-11-13T23:25:37.065Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1223.6',
+  timestamp: '2022-11-13T23:25:37.583Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-13T23:25:37.605Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-13T23:25:37.608Z'
+}
+{
+  level: 'info',
+  message: 'price : 1275 / amount: 0.05 / side: sell',
+  timestamp: '2022-11-13T23:25:37.613Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-13T23:25:38.570Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -1.60 $  -10.79 %  / liq price : 1119.45',
+  timestamp: '2022-11-13T23:25:38.572Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1227.85 / size: 0.04 / pnl: 0.17 $  3.46 %  / liq price : 1295.35',
+  timestamp: '2022-11-13T23:25:38.574Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-13T23:25:39.439Z'
+}
+{
+  l1: 1234.22,
+  l2: 1246.5,
+  l3: 1258.77,
+  l4: 1295.61,
+  liquidity: 1344.72,
+  level: 'info',
+  timestamp: '2022-11-13T23:25:39.443Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-13T23:25:40.451Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:25:40.454Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 33.17 % ',
+  timestamp: '2022-11-13T23:25:40.456Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 201.50 % ',
+  timestamp: '2022-11-13T23:25:40.457Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1223.45',
+  timestamp: '2022-11-13T23:25:41.472Z'
+}
+{ level: 'info', message: 0.49, timestamp: '2022-11-13T23:25:41.475Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:26:11.882Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:26:19.956Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:26:19.958Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:26:19.960Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:26:19.964Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1206.7',
+  timestamp: '2022-11-14T00:26:20.428Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:26:20.456Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:26:20.459Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:26:20.462Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:26:20.465Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:28:11.339Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:28:19.926Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:28:19.928Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:28:19.929Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:28:19.931Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:28:20.423Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:28:20.427Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:28:20.431Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:28:20.435Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:28:45.265Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:28:53.881Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:28:53.884Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:28:53.886Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:28:53.889Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:28:54.171Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:28:54.173Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:28:54.175Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:28:54.176Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:30:59.542Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:31:06.922Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:31:06.926Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:31:06.927Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:31:06.930Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:31:07.469Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:31:07.473Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:31:07.478Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:31:07.482Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1202.2',
+  timestamp: '2022-11-14T00:31:07.494Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:31:30.544Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:31:39.173Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:31:39.176Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:31:39.179Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:31:39.182Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:31:39.859Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:31:39.862Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:31:39.864Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:31:39.866Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1202.3',
+  timestamp: '2022-11-14T00:31:40.042Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:31:58.182Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:32:06.543Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:32:06.546Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.71 % ',
+  timestamp: '2022-11-14T00:32:06.548Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.80 % ',
+  timestamp: '2022-11-14T00:32:06.551Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:32:07.079Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:32:07.082Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:32:07.085Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:32:07.087Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1204.3',
+  timestamp: '2022-11-14T00:32:07.427Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:36:17.120Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:36:24.876Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 41.70 % ',
+  timestamp: '2022-11-14T00:36:24.878Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 41.70 % ',
+  timestamp: '2022-11-14T00:36:24.880Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 139.80 % ',
+  timestamp: '2022-11-14T00:36:24.883Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:36:25.318Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:36:25.321Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:36:25.324Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:36:25.327Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1210.6',
+  timestamp: '2022-11-14T00:36:25.487Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-14T00:36:26.375Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1236.95 / size: 0.12 / pnl: -3.22 $  -21.67 %  / liq price : 1119.45',
+  timestamp: '2022-11-14T00:36:26.378Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> short / price: 1209.75 / size: 0.01 / pnl: -0.00 $  -0.33 %  / liq price : 1276.25',
+  timestamp: '2022-11-14T00:36:26.381Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-14T00:36:26.896Z'
+}
+{
+  l1: 1216.01,
+  l2: 1228.11,
+  l3: 1240.2,
+  l4: 1276.5,
+  liquidity: 1324.89,
+  level: 'info',
+  timestamp: '2022-11-14T00:36:26.900Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:36:27.910Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 41.70 % ',
+  timestamp: '2022-11-14T00:36:27.912Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 41.70 % ',
+  timestamp: '2022-11-14T00:36:27.914Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 139.80 % ',
+  timestamp: '2022-11-14T00:36:27.915Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1210.6',
+  timestamp: '2022-11-14T00:36:28.781Z'
+}
+{ level: 'info', message: 0.49, timestamp: '2022-11-14T00:36:28.783Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:38:22.580Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:38:29.870Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:38:29.873Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:38:29.874Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:38:29.877Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:38:30.295Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:38:30.297Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:38:30.300Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:38:30.302Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1208.5',
+  timestamp: '2022-11-14T00:38:30.435Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:39:01.214Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:39:09.365Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:39:09.367Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:39:09.369Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:39:09.376Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:39:09.831Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:39:09.834Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:39:09.837Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:39:09.841Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:40:34.870Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:40:42.879Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:40:42.883Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:40:42.886Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:40:42.889Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1207.7',
+  timestamp: '2022-11-14T00:40:43.579Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:40:43.776Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:40:43.778Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:40:43.781Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:40:43.783Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-14T00:40:44.330Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:42:12.660Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:42:19.742Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:42:19.744Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:42:19.748Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:42:19.753Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:42:20.287Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:42:20.291Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:42:20.297Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:42:20.303Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1210.95',
+  timestamp: '2022-11-14T00:42:21.047Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-14T00:42:21.320Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:42:57.717Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:43:05.694Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:05.697Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:05.699Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:43:05.701Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:43:06.173Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:43:06.175Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:43:06.177Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:43:06.179Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1212.2',
+  timestamp: '2022-11-14T00:43:06.201Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-14T00:43:06.868Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-14T00:43:07.642Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-14T00:43:07.643Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:43:08.680Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:08.683Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:08.684Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:43:08.686Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1212.8',
+  timestamp: '2022-11-14T00:43:09.580Z'
+}
+{ level: 'info', message: 0.49, timestamp: '2022-11-14T00:43:09.582Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-14T00:43:18.943Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:43:27.255Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:27.258Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:27.259Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:43:27.262Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-14T00:43:27.791Z'
+}
+{
+  level: 'info',
+  message: 'price : 1172 / amount: 0.12 / side: buy',
+  timestamp: '2022-11-14T00:43:27.793Z'
+}
+{
+  level: 'info',
+  message: 'price : 1268.2 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:43:27.797Z'
+}
+{
+  level: 'info',
+  message: 'price : 1274.6 / amount: 0.02 / side: sell',
+  timestamp: '2022-11-14T00:43:27.800Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1213.5',
+  timestamp: '2022-11-14T00:43:28.054Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-14T00:43:28.890Z'
+}
+{
+  l1: 1230.53,
+  l2: 1218.16,
+  l3: 1205.79,
+  l4: 1168.68,
+  liquidity: 1119.2,
+  level: 'info',
+  timestamp: '2022-11-14T00:43:29.498Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-14T00:43:29.501Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-14T00:43:30.599Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:30.602Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 43.72 % ',
+  timestamp: '2022-11-14T00:43:30.604Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 128.72 % ',
+  timestamp: '2022-11-14T00:43:30.605Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1213.45',
+  timestamp: '2022-11-14T00:43:31.482Z'
+}
+{ level: 'info', message: 0.49, timestamp: '2022-11-14T00:43:31.483Z' }
