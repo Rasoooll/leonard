@@ -1,16 +1,8 @@
+import { ProfileData } from './interfaces';
 // import * as ccxt from "ccxt";
-import { bybit } from "./init";
+import { bybit, bybitPro } from "./init";
 import { say } from "./tools";
-
-export interface Positions {
-  id: number;
-  side: string;
-  price: number;
-  size: number;
-  pnlUsd: number;
-  pnlPercent: number;
-  liquidity: number;
-}
+import { BybitProPositionInfo, ccxtBybitPositions } from "./interfaces";
 
 export async function getBalances() {
   let balance = await bybit.fetchBalance();
@@ -58,53 +50,111 @@ export async function ordersLog() {
   }
   // console.log(openOrders[0].price);
 }
+export async function usdtbalance() {
+  let balance = await bybit.fetchBalance();
+  return balance.USDT
+}
 let ethOrders = "ETHUSDT";
 
 export async function getPosistions() {
-  let posisions = await bybit.fetchPositions([ethOrders]);
-  let exPosisions: Positions[] = [];
-  for (let index = 0; index < posisions.length; index++) {
-    const element = posisions[index];
-    if (element.entryPrice) {
-      exPosisions.push({
-        id: index,
-        side: element.side,
-        price: Number(element.entryPrice.toFixed(2)),
-        size: Number(element.contracts),
-        pnlUsd: Number(element.unrealizedPnl.toFixed(2)),
-        pnlPercent: Number(element.percentage.toFixed(2)),
-        liquidity: element.liquidationPrice,
-      });
-    }
+  let positions:ccxtBybitPositions[] = await bybit.fetchPositions([ethOrders])
+  ;
+  // let exPositions: ProfileData[] = [];
+  // for (let index = 0; index < positions.length; index++) {
+  //   const element:ccxtBybitPositions = positions[index];
+  //   if (element.entryPrice) {
+  //     exPositions.push({
+  //       id: index,
+  //       side: element.side,
+  //       entryPrice: Number(element.entryPrice.toFixed(2)),
+  //       size: Number(element.contracts),
+  //       unrealised_pnl: Number(element.unrealizedPnl.toFixed(2)),
+  //       percentage: Number(element.percentage.toFixed(2)),
+  //       liqPrice: element.liquidationPrice,
+  //     });
+  //   }
     // console.log("position", element);
-  }
-  return exPosisions;
+  // }
+  return positions;
 }
 export async function printPositions() {
-  let posisions = await bybit.fetchPositions([ethOrders]);
-  console.log("********** Posisions");
-  say(["********** Posisions"]);
-  for (let index = 0; index < posisions.length; index++) {
-    const element = posisions[index];
-    if (element.enteryPrice) {
-      say([
-        " # " +
-          index +
-          " -> " +
-          element.side +
-          " / price: " +
-          element.entryPrice.toFixed(2) +
-          " / size: " +
-          element.contracts +
-          " / pnl: " +
-          element.unrealizedPnl.toFixed(2) +
-          " $ " +
-          " " +
-          element.percentage.toFixed(2) +
-          " % " +
-          " / liq price : " +
-          element.liquidationPrice,
-      ]);
+  await bybit.fetchPositions([ethOrders]).then((x) => {
+    // console.log(x);
+
+    say(["********** positions"]);
+    for (let index = 0; index < x.length; index++) {
+        // console.log(" from here +++++++++++++++++++++",x);
+      const element:ccxtBybitPositions = x[index];
+      if (element.entryPrice) {
+        console.log("Initial Margin : ", element.initialMargin);
+        console.log("Margin Now :", element.initialMargin + element.unrealizedPnl);
+        
+
+        say([
+          " # " +
+            index +
+            " -> " +
+            element.side +
+            " / price: " +
+            element.entryPrice.toFixed(2) +
+            " / size: " +
+            element.contracts +
+            " / pnl: " +
+            element.unrealizedPnl.toFixed(2) +
+            " $ " +
+            " " +
+            element.percentage.toFixed(2) +
+            " % " +
+            " / liq price : " +
+            element.liquidationPrice,
+        ]);
+      }
     }
-  }
+  });
+}
+//   console.log("********** positions");
+
+// await bybitPro
+//   .getPositions({
+//     symbol: "ETHUSDT",
+//   })
+//   .then((x) => {
+//     for (let i = 0; i < x.result.list.length; i++) {
+//       const element = x.result.list[i];
+//       console.log(element);
+//     }
+//   });
+export async function printPositionsPro() {
+  await bybitPro.getPositions({ symbol: ethOrders }).then((x) => {
+    // console.log(x);
+    let list = x.result.list;
+    say(["********** positions"]);
+    // console.log(list);
+
+    for (let index = 0; index < list.length; index++) {
+      const element: BybitProPositionInfo = list[index];
+      if (element.entryPrice) {
+        console.log("initialMargin", element.positionBalance);
+
+        say([
+          " # " +
+            index +
+            " -> " +
+            element.side +
+            " / price: " +
+            element.entryPrice +
+            " / size: " +
+            element.size +
+            " / pnl: " +
+            element.unrealisedPnl +
+            " $ " +
+            // " " +
+            // element.percentage +
+            // " % " +
+            " / liq price : " +
+            element.liqPrice,
+        ]);
+      }
+    }
+  });
 }

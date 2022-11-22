@@ -1621,3 +1621,5403 @@
   timestamp: '2022-11-14T00:43:31.482Z'
 }
 { level: 'info', message: 0.49, timestamp: '2022-11-14T00:43:31.483Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-15T03:27:55.832Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-15T03:28:03.484Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:03.486Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:03.488Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 16.46 % ',
+  timestamp: '2022-11-15T03:28:03.491Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-15T03:28:03.993Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-15T03:28:36.462Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-15T03:28:43.796Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:43.799Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:43.804Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 16.46 % ',
+  timestamp: '2022-11-15T03:28:43.807Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-15T03:28:44.122Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1258',
+  timestamp: '2022-11-15T03:28:44.286Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-15T03:28:45.134Z'
+}
+{
+  l1: 1255.38,
+  l2: 1242.76,
+  l3: 1230.14,
+  l4: 1192.28,
+  liquidity: 1141.8,
+  level: 'info',
+  timestamp: '2022-11-15T03:28:45.728Z'
+}
+{
+  l1: 1266.56,
+  l2: 1279.16,
+  l3: 1291.76,
+  l4: 1329.56,
+  liquidity: 1379.96,
+  level: 'info',
+  timestamp: '2022-11-15T03:28:45.732Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-15T03:28:46.676Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:46.679Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 85.87 % ',
+  timestamp: '2022-11-15T03:28:46.681Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 16.46 % ',
+  timestamp: '2022-11-15T03:28:46.683Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1257.95',
+  timestamp: '2022-11-15T03:28:47.567Z'
+}
+{ level: 'info', message: 0.63, timestamp: '2022-11-15T03:28:47.570Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-15T03:30:40.617Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-15T03:30:48.971Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 81.06 % ',
+  timestamp: '2022-11-15T03:30:48.973Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 81.06 % ',
+  timestamp: '2022-11-15T03:30:48.975Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 23.37 % ',
+  timestamp: '2022-11-15T03:30:48.977Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-15T03:30:49.456Z'
+}
+{
+  level: 'info',
+  message: 'price : 1279.1 / amount: 0.03 / side: sell',
+  timestamp: '2022-11-15T03:30:49.459Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1258.1',
+  timestamp: '2022-11-15T03:30:49.469Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-15T03:30:50.542Z'
+}
+{
+  l1: 1255.38,
+  l2: 1242.76,
+  l3: 1230.14,
+  l4: 1192.28,
+  liquidity: 1141.8,
+  level: 'info',
+  timestamp: '2022-11-15T03:30:50.951Z'
+}
+{
+  l1: 1266.56,
+  l2: 1279.16,
+  l3: 1291.76,
+  l4: 1329.56,
+  liquidity: 1379.96,
+  level: 'info',
+  timestamp: '2022-11-15T03:30:50.954Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-15T03:30:51.969Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 81.06 % ',
+  timestamp: '2022-11-15T03:30:51.970Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 81.06 % ',
+  timestamp: '2022-11-15T03:30:51.971Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 23.37 % ',
+  timestamp: '2022-11-15T03:30:51.972Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1258.25',
+  timestamp: '2022-11-15T03:30:53.237Z'
+}
+{ level: 'info', message: 0.63, timestamp: '2022-11-15T03:30:53.240Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:24:13.101Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:24:49.975Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:24:58.218Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:24:58.220Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:24:58.222Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:24:58.224Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1208.9',
+  timestamp: '2022-11-17T03:24:58.733Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:24:58.908Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:25:00.193Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:25:00.793Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:25:00.796Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:25:01.766Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:25:01.769Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:25:01.772Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:25:01.773Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1208.9',
+  timestamp: '2022-11-17T03:25:02.692Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:25:02.695Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:27:32.675Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:27:40.733Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:27:40.734Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:27:40.735Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:27:40.737Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:27:41.000Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.15',
+  timestamp: '2022-11-17T03:27:41.787Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:27:41.986Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:27:42.611Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:27:42.614Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:27:43.599Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:27:43.600Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:27:43.601Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:27:43.602Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.15',
+  timestamp: '2022-11-17T03:27:44.653Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:27:44.655Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:31:39.416Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:31:46.825Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:31:46.827Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:31:46.829Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:31:46.831Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:31:47.324Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1206.9',
+  timestamp: '2022-11-17T03:31:47.653Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:31:48.394Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:31:49.252Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:31:49.255Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:31:50.314Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:31:50.317Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:31:50.319Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:31:50.320Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1207.55',
+  timestamp: '2022-11-17T03:31:51.463Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:31:51.466Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:32:16.764Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:32:24.846Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:32:24.847Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:32:24.849Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:32:24.850Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:32:25.437Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.25',
+  timestamp: '2022-11-17T03:32:25.846Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:32:26.896Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:32:27.156Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:32:27.160Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:32:28.393Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:32:28.395Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:32:28.397Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:32:28.399Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.2',
+  timestamp: '2022-11-17T03:32:29.453Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:32:29.454Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:49:35.959Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:49:42.509Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:49:42.512Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:49:42.514Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:49:42.516Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:49:43.021Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.4',
+  timestamp: '2022-11-17T03:49:43.209Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:49:44.044Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:49:44.854Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:49:44.857Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:49:45.983Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:49:45.985Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:49:45.987Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:49:45.990Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.2',
+  timestamp: '2022-11-17T03:49:46.961Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:49:46.964Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T03:50:05.609Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:50:13.677Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:50:13.679Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:50:13.681Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:50:13.683Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T03:50:14.511Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1208.6',
+  timestamp: '2022-11-17T03:50:14.520Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T03:50:15.317Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T03:50:16.850Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T03:50:16.853Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T03:50:18.031Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:50:18.033Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T03:50:18.035Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T03:50:18.037Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1208.25',
+  timestamp: '2022-11-17T03:50:18.999Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T03:50:19.002Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-17T05:28:50.959Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T05:28:58.208Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T05:28:58.211Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T05:28:58.214Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T05:28:58.219Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209.2',
+  timestamp: '2022-11-17T05:28:58.728Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-17T05:28:58.739Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-17T05:28:59.759Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-17T05:29:00.505Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-17T05:29:00.509Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-17T05:29:01.397Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.40 % ',
+  timestamp: '2022-11-17T05:29:01.399Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.40 % ',
+  timestamp: '2022-11-17T05:29:01.401Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 24789.43 % ',
+  timestamp: '2022-11-17T05:29:01.403Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1209',
+  timestamp: '2022-11-17T05:29:02.714Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-17T05:29:02.717Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T17:49:44.827Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:49:52.437Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:49:52.440Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:49:52.442Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:49:52.444Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-18T17:49:53.065Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1205.45',
+  timestamp: '2022-11-18T17:49:53.165Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:49:53.858Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T17:49:54.408Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T17:49:54.411Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:49:55.432Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:49:55.434Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:49:55.435Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:49:55.436Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1205.5',
+  timestamp: '2022-11-18T17:49:56.543Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-18T17:49:56.545Z' }
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:50:58.764Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:51:59.200Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T17:52:44.058Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:52:52.074Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:52:52.077Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:52:52.079Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:52:52.081Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-18T17:52:52.574Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.8',
+  timestamp: '2022-11-18T17:52:52.717Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:52:53.556Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T17:52:54.436Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T17:52:54.439Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:52:55.404Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:52:55.407Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:52:55.409Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:52:55.411Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.75',
+  timestamp: '2022-11-18T17:52:56.446Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-18T17:52:56.449Z' }
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:53:58.445Z'
+}
+{
+  level: 'info',
+  message: '********** Posisions',
+  timestamp: '2022-11-18T17:54:58.904Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T17:58:23.921Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:58:31.376Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:58:31.378Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:58:31.381Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:58:31.383Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-18T17:58:31.981Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.5',
+  timestamp: '2022-11-18T17:58:32.141Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T17:58:32.802Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T17:58:33.651Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T17:58:33.655Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:58:34.833Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:58:34.836Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:58:34.838Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:58:34.840Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.5',
+  timestamp: '2022-11-18T17:58:36.039Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-18T17:58:36.042Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T17:59:38.678Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:59:46.179Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:59:46.186Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:59:46.189Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:59:46.195Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-18T17:59:46.584Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.75',
+  timestamp: '2022-11-18T17:59:46.595Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T17:59:47.256Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T17:59:48.193Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T17:59:48.195Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T17:59:49.406Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:59:49.407Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T17:59:49.409Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T17:59:49.411Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1203.75',
+  timestamp: '2022-11-18T17:59:50.478Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-18T17:59:50.481Z' }
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:00:52.225Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:01:53.098Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:02:52.513Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:03:52.553Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T18:04:15.805Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T18:04:23.205Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T18:04:23.208Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T18:04:23.209Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T18:04:23.211Z'
+}
+{
+  level: 'info',
+  message: '********** Active Orders',
+  timestamp: '2022-11-18T18:04:23.655Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1204.3',
+  timestamp: '2022-11-18T18:04:24.350Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:04:24.447Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T18:04:25.291Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T18:04:25.294Z'
+}
+{
+  level: 'info',
+  message: '********** Balances : ',
+  timestamp: '2022-11-18T18:04:26.287Z'
+}
+{
+  level: 'info',
+  message: 'Used To Total : 0.08 % ',
+  timestamp: '2022-11-18T18:04:26.289Z'
+}
+{
+  level: 'info',
+  message: 'Free To Total : 0.08 % ',
+  timestamp: '2022-11-18T18:04:26.291Z'
+}
+{
+  level: 'info',
+  message: 'Used To Free : 132656.61 % ',
+  timestamp: '2022-11-18T18:04:26.293Z'
+}
+{
+  level: 'info',
+  message: 'last ETH Price: 1204.35',
+  timestamp: '2022-11-18T18:04:27.194Z'
+}
+{ level: 'info', message: 1.31, timestamp: '2022-11-18T18:04:27.197Z' }
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T18:05:16.923Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:05:23.619Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T18:17:48.426Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:17:56.942Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T18:18:27.386Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:18:35.453Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -29.37 $  -18.55 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:18:35.455Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T18:19:08.468Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:20:14.708Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -30.32 $  -19.15 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:20:14.710Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:21:10.872Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -30.47 $  -19.24 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:21:10.873Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:22:10.595Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -31.70 $  -20.02 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:22:10.597Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:23:10.960Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -32.03 $  -20.22 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:23:10.962Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:24:11.190Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -31.03 $  -19.60 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:24:11.193Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:25:11.702Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -29.90 $  -18.88 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:25:11.704Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:26:10.781Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -30.54 $  -19.29 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:26:10.782Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:27:10.741Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -29.83 $  -18.84 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:27:10.744Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:28:11.549Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -29.23 $  -18.46 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:28:11.550Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T18:29:11.171Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -29.15 $  -18.41 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T18:29:11.174Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T20:56:38.066Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:15:59.217Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:18:58.556Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:22:38.395Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:24:04.564Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:29:54.125Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:32:05.068Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:35:49.254Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:36:46.130Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:42:03.744Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:47:59.278Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T21:48:03.009Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:49:23.871Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T21:49:27.378Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:49:43.583Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T21:49:47.656Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:50:32.919Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T21:50:36.792Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> Buy / price: 1227.62751938 / size: undefined / pnl: undefined $  undefined %  / liq price : undefined',
+  timestamp: '2022-11-18T21:50:36.794Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> Sell / price: 0 / size: undefined / pnl: undefined $  undefined %  / liq price : undefined',
+  timestamp: '2022-11-18T21:50:36.796Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T21:53:39.046Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T21:53:42.437Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> Buy / price: 1227.62751938 / size: 1.29 / pnl: -23.707 $  undefined %  / liq price : 1111.05',
+  timestamp: '2022-11-18T21:53:42.441Z'
+}
+{
+  level: 'info',
+  message: ' # 1 -> Sell / price: 0 / size: 0.00 / pnl: 0 $  undefined %  / liq price : 0.00',
+  timestamp: '2022-11-18T21:53:42.444Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:04:13.123Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:04:22.796Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -25.62 $  -16.18 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:04:22.825Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:35:07.403Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:35:17.432Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -23.59 $  -14.90 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:35:17.435Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:38:25.935Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T22:38:33.891Z'
+}
+{
+  l1: NaN,
+  l2: NaN,
+  l3: NaN,
+  l4: NaN,
+  liquidity: NaN,
+  level: 'info',
+  timestamp: '2022-11-18T22:38:33.894Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:38:34.863Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.16 $  -15.26 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:38:34.867Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:39:46.048Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T22:39:54.454Z'
+}
+{
+  l1: NaN,
+  l2: NaN,
+  l3: NaN,
+  l4: NaN,
+  liquidity: NaN,
+  level: 'info',
+  timestamp: '2022-11-18T22:39:54.455Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:39:55.412Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -25.10 $  -15.85 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:39:55.416Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:41:22.639Z'
+}
+{
+  l1: 1221.26,
+  l2: 1208.99,
+  l3: 1196.71,
+  l4: 1159.88,
+  liquidity: 1110.78,
+  level: 'info',
+  timestamp: '2022-11-18T22:41:31.016Z'
+}
+{
+  l1: 0,
+  l2: 0,
+  l3: 0,
+  l4: 0,
+  liquidity: 0,
+  level: 'info',
+  timestamp: '2022-11-18T22:41:31.018Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:41:31.974Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.39 $  -15.40 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:41:31.976Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:43:19.107Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:43:29.601Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.87 $  -15.70 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:43:29.605Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:43:44.969Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:43:54.074Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.87 $  -15.70 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:43:54.078Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:46:06.808Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:46:19.348Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.38 $  -15.39 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:46:19.351Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:46:31.590Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:46:40.569Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.29 $  -15.34 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:46:40.574Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-18T22:52:04.915Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-18T22:52:17.471Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 1.29 / pnl: -24.03 $  -15.17 %  / liq price : 1111.05',
+  timestamp: '2022-11-18T22:52:17.475Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-19T03:15:12.149Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-19T03:15:16.766Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -17.86 $  -14.99 %  / liq price : 1111.05',
+  timestamp: '2022-11-19T03:15:16.775Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T00:37:54.504Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T00:37:59.453Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.87 $  -6.61 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T00:37:59.456Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:13:41.024Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:13:45.059Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.78 $  -8.21 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:13:45.063Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:18:18.840Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:18:50.487Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:18:54.171Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.14 $  -7.68 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:18:54.175Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:20:31.675Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:20:36.010Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.51 $  -7.15 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:20:36.013Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:23:36.539Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:23:40.546Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.64 $  -6.42 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:23:40.548Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:24:25.999Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:24:30.212Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.22 $  -6.91 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:24:30.214Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:25:32.580Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:25:36.406Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.51 $  -7.15 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:25:36.411Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:26:54.571Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:26:58.792Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.97 $  -7.53 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:26:58.794Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:27:28.564Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:27:32.418Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.69 $  -7.30 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:27:32.422Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:30:33.600Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:30:37.382Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.79 $  -6.54 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:30:37.385Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:34:12.542Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:34:16.905Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.00 $  -6.72 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:34:16.908Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:34:50.523Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:34:55.162Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -6.96 $  -5.85 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:34:55.168Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:35:51.857Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:35:56.787Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.50 $  -6.29 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:35:56.791Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:36:06.041Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:36:09.586Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.69 $  -6.46 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:36:09.590Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:39:11.450Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:39:15.972Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.40 $  -6.21 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:39:15.974Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:39:46.432Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:39:49.867Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.21 $  -6.06 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:39:49.869Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:40:58.374Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:41:02.211Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.51 $  -6.30 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:41:02.214Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:41:31.312Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:41:35.049Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.64 $  -6.42 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:41:35.053Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:42:20.709Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:42:24.996Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.64 $  -6.42 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:42:25.003Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:43:35.385Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:43:40.117Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.40 $  -6.21 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:43:40.119Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:51:09.325Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:51:13.083Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.05 $  -7.60 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:51:13.085Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T02:53:38.147Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T02:53:41.929Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.29 $  -7.80 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T02:53:41.932Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:06:38.430Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:06:43.609Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.63 $  -8.09 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:06:43.612Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:07:13.712Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:07:17.750Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.08 $  -8.46 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:07:17.754Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:09:02.598Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:09:06.096Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.26 $  -8.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:09:06.101Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:09:35.769Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:09:39.365Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.26 $  -8.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:09:39.372Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:11:35.964Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:11:40.171Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.44 $  -7.92 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:11:40.173Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:12:58.049Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:13:02.021Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.29 $  -7.80 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:13:02.023Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:13:14.523Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:13:18.651Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.34 $  -7.84 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:13:18.655Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:20:06.952Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:20:12.152Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.20 $  -8.57 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:20:12.154Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:20:33.741Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:20:37.281Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.95 $  -8.36 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:20:37.286Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:20:55.190Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:20:58.694Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.94 $  -8.35 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:20:58.696Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:21:43.197Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:21:47.154Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.77 $  -8.20 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:21:47.156Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:22:01.047Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:22:05.568Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.82 $  -8.25 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:22:05.572Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:22:24.740Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:22:28.645Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.97 $  -8.37 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:22:28.650Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:24:14.676Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:24:18.471Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.07 $  -8.45 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:24:18.474Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:25:05.208Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:25:09.353Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.60 $  -8.90 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:25:09.358Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:25:48.697Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:25:52.445Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -11.18 $  -9.39 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:25:52.450Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:33:08.834Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:33:17.502Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.19 $  -7.72 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:33:17.507Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:35:44.640Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:35:53.195Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.39 $  -7.88 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:35:53.198Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:44:43.085Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:44:53.594Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.26 $  -8.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:44:53.598Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:45:20.649Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:45:27.042Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -10.26 $  -8.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:45:27.044Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:51:17.755Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:51:23.580Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.92 $  -8.33 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:51:23.583Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T03:53:17.128Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T03:53:26.891Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.10 $  -7.64 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T03:53:26.893Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:00:24.609Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:00:33.069Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.99 $  -7.55 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:00:33.074Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:02:33.709Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:02:42.246Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.90 $  -7.48 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:02:42.250Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:04:12.369Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:04:20.433Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.56 $  -7.19 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:04:20.437Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:07:46.877Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:07:55.510Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.00 $  -6.72 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:07:55.514Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:08:57.943Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:09:05.250Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.45 $  -6.25 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:09:05.254Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:18:28.211Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:18:37.419Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.58 $  -6.37 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:18:37.421Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:21:24.298Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:21:32.484Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.47 $  -6.27 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:21:32.489Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:23:45.364Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:23:51.861Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.32 $  -6.99 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:23:51.864Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:26:13.755Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:26:22.285Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.08 $  -6.78 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:26:22.289Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T04:30:21.235Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T04:30:30.065Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.70 $  -6.47 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T04:30:30.071Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T05:18:07.525Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T05:18:15.925Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.71 $  -8.15 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T05:18:15.927Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:24:37.898Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:24:46.792Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -9.58 $  -8.05 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:24:46.794Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:31:40.387Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:31:49.920Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.66 $  -7.27 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:31:49.924Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:32:12.448Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:32:21.043Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.66 $  -7.27 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:32:21.048Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:32:37.432Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:32:48.294Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.90 $  -7.48 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:32:48.304Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:33:30.131Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:33:40.161Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.78 $  -7.37 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:33:40.165Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:38:52.717Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:39:02.084Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.65 $  -7.26 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:39:02.086Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:40:09.331Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:40:19.338Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.71 $  -7.31 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:40:19.345Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:41:56.942Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:42:07.350Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.22 $  -6.91 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:42:07.353Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:50:07.668Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:50:18.455Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.32 $  -6.99 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:50:18.465Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:58:04.115Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:58:12.402Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.88 $  -6.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:58:12.406Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T06:58:50.820Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T06:58:58.826Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.88 $  -6.62 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T06:58:58.829Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T07:00:32.773Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T07:00:41.942Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -7.93 $  -6.66 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T07:00:41.949Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T07:04:27.242Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T07:04:35.379Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.76 $  -7.35 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T07:04:35.383Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T07:04:54.356Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T07:05:00.987Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.70 $  -7.30 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T07:05:00.991Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T07:06:05.500Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T07:06:13.768Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.82 $  -7.41 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T07:06:13.772Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T07:06:23.553Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T07:06:32.117Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1227.63 / size: 0.97 / pnl: -8.82 $  -7.41 %  / liq price : 1111.05',
+  timestamp: '2022-11-20T07:06:32.124Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T13:41:20.626Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T13:41:30.691Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.16 $  -30.89 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T13:41:30.694Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T13:57:50.557Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T13:57:58.596Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -43.98 $  -28.81 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T13:57:58.602Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:45:41.765Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:45:52.032Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -43.01 $  -28.17 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:45:52.034Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:46:36.940Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:46:46.632Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -43.16 $  -28.27 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:46:46.635Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:51:25.869Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:51:34.120Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.59 $  -27.90 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:51:34.122Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:54:33.393Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:54:42.848Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.88 $  -28.09 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:54:42.853Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:56:23.114Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:56:33.077Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.68 $  -27.96 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:56:33.081Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:57:17.858Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:57:25.665Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.98 $  -28.15 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:57:25.669Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:58:28.622Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:58:37.717Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.98 $  -28.15 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:58:37.721Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T15:59:26.361Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T15:59:34.225Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -43.15 $  -28.26 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T15:59:34.229Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:08:36.496Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:08:46.086Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -42.72 $  -27.98 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:08:46.089Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:09:20.738Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:09:28.975Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -44.80 $  -29.34 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:09:28.977Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:13:24.646Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:13:32.798Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -45.97 $  -30.11 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:13:32.802Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:13:48.358Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:13:57.077Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.26 $  -30.30 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:13:57.081Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:19:28.265Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:19:36.816Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.38 $  -31.04 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:19:36.818Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:21:16.899Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:21:26.076Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.17 $  -30.24 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:21:26.081Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:23:23.212Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:23:30.955Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.58 $  -30.52 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:23:30.963Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:26:29.991Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:26:38.252Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.25 $  -30.95 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:26:38.257Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:27:17.124Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:27:27.482Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.45 $  -31.08 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:27:27.484Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:31:54.372Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:32:03.185Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.42 $  -31.06 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:32:03.189Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:34:16.197Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:34:25.021Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.14 $  -30.88 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:34:25.023Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:36:38.841Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:36:49.817Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.74 $  -31.93 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:36:49.819Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:38:29.349Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:38:38.249Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.36 $  -31.68 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:38:38.254Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:39:25.703Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:39:34.264Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.58 $  -31.82 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:39:34.265Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:45:44.809Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:45:51.788Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:45:59.125Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -49.90 $  -32.69 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:45:59.130Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:48:26.539Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:48:36.121Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.69 $  -31.24 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:48:36.126Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:50:04.246Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:50:11.831Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.50 $  -31.12 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:50:11.835Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T16:50:38.568Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T16:50:46.407Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.76 $  -31.28 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T16:50:46.412Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:00:31.529Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:00:40.453Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.75 $  -30.62 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:00:40.460Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:02:58.217Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:03:06.861Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.89 $  -30.71 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:03:06.864Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:04:19.972Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:04:32.547Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.82 $  -31.32 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:04:32.550Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:06:10.443Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:06:19.997Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.63 $  -31.20 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:06:20.000Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:09:40.545Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:09:50.645Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.63 $  -31.20 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:09:50.649Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:10:53.423Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:11:02.145Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.94 $  -30.75 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:11:02.149Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:11:16.958Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:11:27.923Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.24 $  -30.94 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:11:27.927Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:12:26.465Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:12:36.606Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.13 $  -30.87 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:12:36.611Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:13:12.882Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:13:21.764Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.19 $  -30.91 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:13:21.766Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:15:52.600Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:16:00.261Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.13 $  -30.22 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:16:00.265Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:17:07.395Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:17:17.172Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.69 $  -30.58 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:17:17.175Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:20:02.714Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:20:13.413Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.87 $  -30.70 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:20:13.415Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:20:59.771Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:21:09.888Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.46 $  -30.43 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:21:09.890Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:21:39.948Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:21:50.914Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -46.12 $  -30.21 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:21:50.916Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:38:06.626Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:38:15.636Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -44.48 $  -29.14 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:38:15.638Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:39:16.083Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:39:25.412Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -44.17 $  -28.93 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:39:25.414Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:41:31.130Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:41:42.176Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -45.93 $  -30.09 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:41:42.181Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:43:58.312Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:44:06.818Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -45.36 $  -29.71 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:44:06.823Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:48:27.145Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:48:39.007Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.44 $  -31.08 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:48:39.013Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:53:01.482Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:53:09.557Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -47.24 $  -30.94 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:53:09.561Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:55:50.238Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:55:59.674Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.39 $  -31.70 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:55:59.677Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:57:25.548Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:57:34.521Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.31 $  -31.65 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:57:34.524Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T17:58:44.430Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T17:58:52.265Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -48.95 $  -32.07 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T17:58:52.272Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T18:00:56.487Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T18:01:03.575Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -49.08 $  -32.15 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T18:01:03.577Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T18:04:57.637Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-20T18:05:06.942Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1211.60 / size: 1.26 / pnl: -50.30 $  -32.95 %  / liq price : 1096.5',
+  timestamp: '2022-11-20T18:05:06.944Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-20T18:34:02.544Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:40:56.561Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:41:29.005Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:42:24.265Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:45:56.653Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:46:03.734Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -103.04 $  -50.01 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:46:03.742Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:47:50.906Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:48:00.198Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -104.75 $  -50.84 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:48:00.200Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:51:21.059Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:51:28.577Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -104.96 $  -50.95 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:51:28.582Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:52:00.616Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:52:07.200Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -104.13 $  -50.54 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:52:07.205Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:53:45.144Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:53:53.736Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -103.44 $  -50.21 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:53:53.738Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:54:54.620Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:55:04.479Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -104.68 $  -50.81 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:55:04.483Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:55:18.141Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:55:26.756Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -105.55 $  -51.23 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:55:26.759Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:57:56.795Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:58:11.481Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -107.73 $  -52.29 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:58:11.483Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T06:59:40.629Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T06:59:50.824Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -108.09 $  -52.47 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T06:59:50.828Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:02:08.166Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:02:16.932Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -106.46 $  -51.68 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:02:16.936Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:04:26.955Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:04:36.235Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -105.63 $  -51.27 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:04:36.242Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:06:30.326Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:06:38.059Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -106.55 $  -51.72 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:06:38.061Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:16:08.790Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:16:17.693Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -101.65 $  -49.34 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:16:17.698Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:17:20.456Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:17:29.487Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -101.83 $  -49.43 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:17:29.491Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T07:19:37.157Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T07:19:46.425Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -103.26 $  -50.12 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T07:19:46.427Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:01:12.689Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:01:20.505Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -114.32 $  -55.49 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:01:20.508Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:02:21.718Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:02:31.009Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -111.34 $  -54.04 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:02:31.014Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:06:12.523Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:06:21.734Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -113.85 $  -55.26 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:06:21.736Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:07:00.576Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:07:13.569Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -113.85 $  -55.26 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:07:13.573Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:08:33.923Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:08:42.201Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -115.13 $  -55.88 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:08:42.208Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:08:58.818Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:09:08.767Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -115.75 $  -56.19 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:09:08.769Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:10:50.833Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:10:59.107Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -118.09 $  -57.32 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:10:59.116Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:12:11.325Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:12:20.631Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -116.01 $  -56.31 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:12:20.633Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:15:11.613Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:15:20.632Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -114.80 $  -55.72 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:15:20.638Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:45:17.722Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:45:26.804Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -114.66 $  -55.66 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:45:26.815Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:46:46.482Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:46:54.930Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -114.85 $  -55.75 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:46:54.934Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:50:17.705Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:50:27.299Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -123.97 $  -60.17 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:50:27.306Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:51:30.227Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:51:39.692Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -120.93 $  -58.70 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:51:39.696Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:52:27.725Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:52:36.856Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -126.37 $  -61.34 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:52:36.863Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:53:17.968Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:53:26.201Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -126.55 $  -61.43 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:53:26.203Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:54:07.912Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:54:16.821Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -124.66 $  -60.51 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:54:16.824Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T08:56:25.583Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T08:56:33.998Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -125.01 $  -60.68 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T08:56:34.001Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:15:04.359Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:15:13.202Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -112.90 $  -54.80 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:15:13.205Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:18:22.275Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:18:30.301Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -118.26 $  -57.40 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:18:30.305Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:19:19.468Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:19:29.085Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -117.31 $  -56.94 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:19:29.087Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:20:58.730Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:21:06.763Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -116.01 $  -56.31 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:21:06.766Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:22:35.947Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:22:43.766Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -120.41 $  -58.44 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:22:43.768Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:24:21.157Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:24:30.202Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -134.80 $  -65.43 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:24:30.204Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:25:49.495Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:25:58.611Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -141.75 $  -68.81 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:25:58.613Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:26:23.250Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:26:31.859Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -137.12 $  -66.56 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:26:31.864Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:26:53.570Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:27:02.868Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -140.21 $  -68.06 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:27:02.871Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:28:45.783Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:28:53.082Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -144.73 $  -70.25 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:28:53.083Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:29:59.645Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:30:08.003Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -145.15 $  -70.45 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:30:08.005Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:36:44.333Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:36:50.968Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -132.88 $  -64.50 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:36:50.972Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T09:37:34.624Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T09:37:43.197Z'
+}
+{
+  level: 'info',
+  message: ' # 0 -> long / price: 1190.86 / size: 1.73 / pnl: -132.60 $  -64.36 %  / liq price : 1077.75',
+  timestamp: '2022-11-21T09:37:43.199Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T19:55:07.537Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T19:55:51.651Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T19:55:57.663Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T20:12:30.271Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T20:12:39.093Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T20:47:49.072Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T20:47:57.058Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:07:27.214Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:07:38.025Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:10:20.286Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:10:30.999Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:28:04.734Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:28:13.968Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:29:41.613Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:29:48.567Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:37:53.470Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:38:03.075Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:38:28.024Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:38:37.190Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:39:21.244Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:39:30.743Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:40:03.485Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:40:12.204Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:44:48.187Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:49:37.684Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:49:48.122Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:52:49.963Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:55:31.899Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:55:42.118Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:56:47.025Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:56:57.159Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T21:57:51.478Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T21:58:00.701Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:06:48.982Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T22:06:56.268Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:07:02.987Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:07:22.857Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T22:07:31.595Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:08:43.740Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T22:08:50.277Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:09:33.630Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T22:09:41.286Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T22:09:51.184Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T22:09:58.886Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:08:44.936Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:08:53.042Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:09:20.607Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:09:29.373Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:11:16.575Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:11:25.355Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:13:02.455Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:13:11.186Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:13:29.037Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:13:38.639Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:14:30.633Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:14:39.146Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:16:08.458Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:16:17.931Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:16:31.264Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:16:40.056Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:25:01.345Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:25:11.125Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:25:15.427Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:25:24.176Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:25:52.279Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:26:01.840Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:27:16.109Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:27:24.640Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:27:46.778Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:27:55.632Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:30:36.895Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:30:46.019Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:31:12.719Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:31:21.219Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:32:15.447Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:32:24.445Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:36:47.754Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:36:57.849Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:37:47.381Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:37:56.088Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:48:12.291Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:48:19.351Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:50:56.633Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:51:04.820Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:52:43.269Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:52:52.874Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-21T23:52:57.742Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-21T23:53:06.103Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:01:45.194Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:01:55.015Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:02:31.943Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:02:39.142Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:03:34.667Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:03:45.447Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:04:24.820Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:04:33.967Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:05:26.831Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:05:35.529Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:08:26.502Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:11:31.816Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:11:40.844Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:17:07.645Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:17:18.654Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:17:30.701Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:17:42.617Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:19:14.721Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:19:23.581Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:27:12.793Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:27:25.116Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:27:49.251Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:27:58.124Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:28:24.659Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:28:34.315Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:29:27.206Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:29:36.381Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:30:16.574Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:30:25.049Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:37:41.511Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:37:48.863Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:38:14.243Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:38:23.121Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:41:07.025Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:41:15.732Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:43:13.303Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:43:22.485Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:43:48.356Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:43:57.440Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:44:50.191Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:44:57.512Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:46:31.778Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:46:39.363Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:48:22.635Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:48:30.477Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:49:17.724Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:49:27.461Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:50:04.227Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:50:12.069Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T00:51:41.121Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T00:51:49.121Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:33:32.504Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:33:38.188Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:35:38.290Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:35:47.903Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:37:20.692Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:37:30.800Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:38:03.583Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:38:12.502Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:38:22.019Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:38:29.714Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:39:49.595Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:39:56.570Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T11:40:49.111Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T11:40:58.282Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:32:00.710Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:32:07.598Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:34:17.964Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:34:26.086Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:42:54.726Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:43:04.241Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:49:04.017Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:49:11.798Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:57:39.343Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:57:47.784Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:58:16.362Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:58:29.656Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T12:59:16.043Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T12:59:25.087Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:00:15.984Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:00:24.676Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:00:50.843Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:00:57.339Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:01:36.697Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:02:07.418Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:02:18.728Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:04:18.856Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:04:29.461Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:11:31.146Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:11:40.276Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:15:12.118Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:15:18.367Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T13:19:49.370Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T13:19:57.883Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T14:21:23.535Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T14:21:45.000Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T14:21:53.378Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T14:40:39.455Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T14:40:47.099Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T14:42:46.709Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T14:42:54.936Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T19:51:27.512Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T19:51:36.359Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T19:52:29.106Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T19:53:53.710Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T19:54:01.465Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:14:37.953Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:15:00.741Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T20:15:09.655Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:25:22.168Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:25:39.614Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:27:17.819Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:27:51.108Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T20:27:54.947Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T20:29:17.988Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T20:29:22.001Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:29:11.166Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:30:04.707Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:30:13.062Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:32:18.978Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:32:24.835Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:35:11.047Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:35:16.993Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:35:58.192Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:36:05.008Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:45:20.934Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:45:28.069Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:45:47.559Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:45:54.159Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:47:58.096Z'
+}
+{
+  level: 'info',
+  message: '********** positions',
+  timestamp: '2022-11-22T21:48:02.398Z'
+}
+{
+  level: 'info',
+  message: ' #####  new fetch ##### ',
+  timestamp: '2022-11-22T21:53:20.152Z'
+}

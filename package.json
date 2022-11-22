@@ -1,11 +1,19 @@
 {
   "dependencies": {
     "@mathieuc/tradingview": "^3.3.3",
+    "axios": "^1.1.3",
+    "bybit-api": "^3.3.3",
     "ccxt": "^2.1.61",
+    "convert-array-to-csv": "^2.0.0",
+    "csv-parser": "^3.0.0",
     "dotenv": "^16.0.3",
+    "export-to-csv": "^0.2.1",
+    "fast-csv": "^4.3.6",
+    "technicalindicators": "^3.1.0",
     "winston": "^3.8.2"
   },
   "devDependencies": {
+    "@types/convert-array-to-csv": "^2.0.0",
     "@types/node": "^18.11.9"
   }
 }

@@ -1,5 +1,5 @@
-import { Positions } from "./profile";
-import { levrage, PriceLevels, priceLevels } from "./config";
+import { ccxtBybitPositions, ProfileData } from "./interfaces";
+import { positionLevrage, PriceLevels, priceLevels } from "./config";
 import { createLogger, transports, format } from "winston";
 
 // export interface LongLevels{
@@ -65,16 +65,16 @@ export function say(a: any[]) {
   }
 }
 
-export function weighedPosisionsMid(positions: Positions[]) {
+export function weighedPosisionsMid(positions: ccxtBybitPositions[]) {
   switch (positions.length) {
     case 0:
       return 0;
     case 1:
       return 0;
     case 2:
-      let weightLong = positions[0].size * positions[0].price;
-      let weightShort = positions[1].size * positions[1].price;
-      let sumSizes = positions[0].size + positions[1].size;
+      let weightLong = positions[0].contracts * positions[0].entryPrice;
+      let weightShort = positions[1].contracts * positions[1].entryPrice;
+      let sumSizes = positions[0].contracts + positions[1].contracts;
       let weightedPosionsPrice = (weightLong + weightShort) / sumSizes;
       return [weightedPosionsPrice.toFixed(2)];
   }
@@ -82,80 +82,100 @@ export function weighedPosisionsMid(positions: Positions[]) {
 
 export function LastPriceFromWPP() {}
 
-export function safezone(positions: Positions[]) {
+export function safezone(positions: ccxtBybitPositions[]) {
   if (positions.length > 0) {
     for (let i = 0; i < positions.length; i++) {
       const element = positions[i];
-      if (element.side == "long") {
+      // console.log("element ====================== ");
+      // console.log(element);
+
+      if (element.side == "long" && element.initialMargin != undefined) {
         longOrders.l1 = Number(
           (
-            element.price +
-            (1 - ((priceLevels.minusL1 + 0.01) * element.price) / levrage)
+            element.entryPrice +
+            (1 - ((priceLevels.minusL1 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         longOrders.l2 = Number(
           (
-            element.price +
-            (1 - ((priceLevels.minusL2 + 0.01) * element.price) / levrage)
+            element.entryPrice +
+            (1 - ((priceLevels.minusL2 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         longOrders.l3 = Number(
           (
-            element.price +
-            (1 - ((priceLevels.minusL3 + 0.01) * element.price) / levrage)
+            element.entryPrice +
+            (1 - ((priceLevels.minusL3 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         longOrders.l4 = Number(
           (
-            element.price +
-            (1 - ((priceLevels.minusL4 + 0.01) * element.price) / levrage)
+            element.entryPrice +
+            (1 - ((priceLevels.minusL4 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         longOrders.liquidity = Number(
           (
-            element.price +
-            (1 - ((priceLevels.lowerLiquid + 0.01) * element.price) / levrage)
+            element.entryPrice +
+            (1 -
+              ((priceLevels.lowerLiquid + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
-      } else if (element.side == "short") {
+      } else if (
+        element.side == "short" &&
+        element.initialMargin != undefined
+      ) {
         shortOrders.l1 = Number(
           (
-            element.price -
-            (1 - ((priceLevels.minusL1 + 0.01) * element.price) / levrage)
+            element.entryPrice -
+            (1 - ((priceLevels.minusL1 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         shortOrders.l2 = Number(
           (
-            element.price -
-            (1 - ((priceLevels.minusL2 + 0.01) * element.price) / levrage)
+            element.entryPrice -
+            (1 - ((priceLevels.minusL2 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         shortOrders.l3 = Number(
           (
-            element.price -
-            (1 - ((priceLevels.minusL3 + 0.01) * element.price) / levrage)
+            element.entryPrice -
+            (1 - ((priceLevels.minusL3 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         shortOrders.l4 = Number(
           (
-            element.price -
-            (1 - ((priceLevels.minusL4 + 0.01) * element.price) / levrage)
+            element.entryPrice -
+            (1 - ((priceLevels.minusL4 + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
         shortOrders.liquidity = Number(
           (
-            element.price -
-            (1 - ((priceLevels.lowerLiquid + 0.01) * element.price) / levrage)
+            element.entryPrice -
+            (1 -
+              ((priceLevels.lowerLiquid + 0.01) * element.entryPrice) / positionLevrage)
           ).toFixed(2)
         );
       }
     }
-    say([longOrders, shortOrders]);
+    // say([longOrders, shortOrders]);
+    return [longOrders, shortOrders];
   }
 }
 
 export function totalPower(totalUSDT: number, ethPrice: number) {
-  let totalEth = Number(((totalUSDT / ethPrice) * levrage).toFixed(2)) - 0.01;
+  let totalEth = Number(((totalUSDT / ethPrice) * positionLevrage).toFixed(2)) - 0.01;
   say([totalEth]);
   return totalEth;
 }
+
+export function getUnixXHoursAgo(hr: number) {
+  let min = 60;
+  let hour = 60;
+  let time = Date.now() - (hour * min * hr) ;
+  // console.log("time : ", time);
+
+  return time;
+}
+
+export function getLevels() {}

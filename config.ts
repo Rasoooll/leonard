@@ -1,3 +1,4 @@
+import { fibPair } from './interfaces';
 
 export interface PositionsLevels{
     l1 : number ,
@@ -48,4 +49,15 @@ export const priceLevels:PriceLevels = {
     lowerLiquid:0.95,
     
 }
-export const levrage = 10;
+export const positionLevrage = 30;
+
+export const fibProfit :fibPair[]=[
+    {percent:10 , size:0.01},
+    {percent:20 , size:0.01},
+    {percent:30 , size:0.01},
+    {percent:50 , size:0.02},
+    {percent:80 , size:0.03},
+    {percent:130 , size:0.04},
+    {percent:210 , size:0.01},
+
+]
