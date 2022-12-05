@@ -1,4 +1,4 @@
-import { BackTest, TradingBot } from "./trade";
+import { BackTest } from "./trade";
 import { BotPlan } from "./interfaces";
 import { Balance } from "ccxt";
 import { weighedPosisionsMid, safezone, say, totalPower } from "./tools";

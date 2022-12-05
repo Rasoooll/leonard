@@ -1,5 +1,5 @@
 import { Order } from "ccxt";
-import { positionLevrage } from "./config";
+import { positionLevrage, positionMargin, positionPercent } from "./config";
 import { bybit } from "./init";
 import { botPostisions, ohlcvData, Orders, Side, Ticker } from "./interfaces";
 import { BB } from "./ta";
@@ -436,49 +436,89 @@ export function tradingBoat(
   short: botPostisions,
   orders: Orders[]
 ) {
-  for (let i = data.length - 1; i > 0; i--) {
+  for (let i = data.length - 1; i >= 0; i--) {
     const element = data[i];
-    if (long.positionMargin == 0 , short.positionMargin == 0) {
-      console.log("init long & short ...");
-      
-      addTrade(long, element.open, 0.01, element.open);
-      addOrders(orders, long);
+    if(long.positionMargin == 0 && short.positionMargin == 0 && orders.length == 0){
+      // add orders 
+      orders.push({
+        side: long.side,
+        limit: element.close - (element.close / positionLevrage) * positionPercent.l1 ,
+        margin: positionMargin,
+        stat:"open",
+        type:"open Position" ,
+        fromPosition:element.close
 
-      addTrade(short, element.open, 0.01, element.open);
-      addOrders(orders, short);
-      //set orders
-    } else{
-      //check orders if activated add to position
-      // let shortFilled:string // TODO- add shortLoss, shortProfit , longLoss, long Profit to interface
-      for (let i = 0; i < orders.length; i++) {
-        let order = orders[i];
-        if (order.side == "long" && order.stat == "open") {
-          order.stat = "filled";
-          if (order.limit > element.low && order.limit < element.high) {
-            let wavg = wAverage(
-              long.positionPrice,
-              long.positionMargin,
-              order.limit,
-              order.margin
-            );
-            addTrade(long, order.limit, order.margin, wavg);
-            addOrders(orders, long);
-          }
-        }else if (order.side == "short" && order.stat == "open") {
-          order.stat = "filled";
-          if (order.limit > element.low && order.limit < element.high) {
-            let wavg = wAverage(
-              long.positionPrice,
-              long.positionMargin,
-              order.limit,
-              order.margin
-            );
-            addTrade(short, order.limit, order.margin, wavg);
-            addOrders(orders, short);
+      })
+      orders.push({
+        side: short.side,
+        limit: element.close + (element.close / positionLevrage) * positionPercent.l1 ,
+        margin: positionMargin,
+        stat:"open",
+        type:"open Position" ,
+        fromPosition:element.close
+
+      })
+    }else if (orders.length > 0 ){
+      for (let or = 0; or < orders.length; or++) {
+        const order = orders[or];
+        if(order.limit >= element.low && order.limit <= element.high && order.stat == "open"){
+          if(order.side == long.side){
+            if(order.type == "open Position"){
+              // long.positionPrice = wAverage()
+            }else if(order.type == "close Position" ){
+
+            }
+          }else if (order.side == short.side){
+
           }
         }
+        
       }
-    } 
+    }
+
+
+
+    // if (long.positionMargin == 0 , short.positionMargin == 0) {
+    //   console.log("init long & short ...");
+      
+    //   addTrade(long, element.open, 0.01, element.open);
+    //   addOrders(orders, long);
+
+    //   addTrade(short, element.open, 0.01, element.open);
+    //   addOrders(orders, short);
+    //   //set orders
+    // } else{
+    //   //check orders if activated add to position
+    //   // let shortFilled:string // TODO- add shortLoss, shortProfit , longLoss, long Profit to interface
+    //   for (let i = 0; i < orders.length; i++) {
+    //     let order = orders[i];
+    //     if (order.side == "long" && order.stat == "open") {
+    //       order.stat = "filled";
+    //       if (order.limit > element.low && order.limit < element.high) {
+    //         let wavg = wAverage(
+    //           long.positionPrice,
+    //           long.positionMargin,
+    //           order.limit,
+    //           order.margin
+    //         );
+    //         addTrade(long, order.limit, order.margin, wavg);
+    //         addOrders(orders, long);
+    //       }
+    //     }else if (order.side == "short" && order.stat == "open") {
+    //       order.stat = "filled";
+    //       if (order.limit > element.low && order.limit < element.high) {
+    //         let wavg = wAverage(
+    //           long.positionPrice,
+    //           long.positionMargin,
+    //           order.limit,
+    //           order.margin
+    //         );
+    //         addTrade(short, order.limit, order.margin, wavg);
+    //         addOrders(orders, short);
+    //       }
+    //     }
+    //   }
+    // } 
     // else if (short.positionMargin == 0 && long.positionMargin != 0) {
     //   console.log("init short ...");
       
@@ -514,6 +554,8 @@ function addOrders(orders: Orders[], trade: botPostisions) {
     margin: 0.01,
     side: "init",
     stat: "canceled",
+    type : 'open Position',
+    fromPosition:0
   };
   if (trade.side == "long") {
     order.side = "long";

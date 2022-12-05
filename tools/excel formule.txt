@@ -1,0 +1,1 @@
+=IF([@stat]="filled", IF( [@type] = "close Position",(IF([@side]="long",([@limit]-[@pp])*[@margin],IF([@side]= "short",( [@pp]-[@limit])*[@margin],0))),0),0)

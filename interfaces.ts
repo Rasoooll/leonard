@@ -1,4 +1,4 @@
-import { levrage } from "./config";
+import { positionLevrage } from "./config";
 import { Balance, OHLCV, Order } from "ccxt";
 
 export interface BybitProPositionInfo {
@@ -132,6 +132,16 @@ export interface Ticker {
   bbTrend?: BBTrend;
   activateOrder?: OrderTypes;
   PnL?: number;
+  longPrice?:number;
+  longMargin?:number;
+  longPnl?:number;
+  longOrderAdd?:number;
+  shortPrice?:number;
+  shortMargin?:number;
+  shortPnl?:number;
+  shortOrderAdd?:number;
+  boat?:number;
+
 }
 
 export interface Trends {
@@ -150,11 +160,15 @@ export type Side = "short" | "long" | "init";
 export interface botPostisions {
   side: Side;
   levrage: number;
+  level:number;
   initialMargin: number;
   positionMargin: number;
   liqPrice: number;
   positionPrice: number;
   entryPrice: number;
+  orderOnLoss1:Orders;
+  orderGetProfit:Orders;
+  orderCloseLoss:Orders;
 }
 export interface history {
   timeStamp: string;
@@ -171,9 +185,59 @@ export interface history {
   PnL?: number;
 }
 export type State = "open" | "canceled" | "filled"
+export type PositionType="open Position" | "close Position"
 export interface Orders {
   side: Side;
   limit: number;
   margin: number;
-  stat:State
+  stat:State;
+  type:PositionType,
+  fromPosition:number
+}
+
+export interface TradeLog{
+  timeStamp:any;
+  open:number,
+  close:number,
+  pSide:Side
+  pPrice:number;
+  pMargin:number;
+  pLevel:number;
+  pliq:number;
+  pEntry:number;
+  pol1Limit:number;
+  pol1Margin:number;
+  pol1Stat:State;
+  pol1Type:PositionType,
+  pol1From:number,
+  gopLimit:number;
+  gopMargin:number;
+  gopStat:State;
+  gopType:PositionType,
+  gopFrom:number,
+  colLimit:number;
+  colMargin:number;
+  colStat:State;
+  colType:PositionType,
+  colFrom:number,
+  longPnl?:number,
+  shortPnl?:number,
+  pnl?:number,
+  pnlp?:number,
+}
+
+export interface TradeTest{
+  profitLevel:number;
+  closeLevel:number;
+  addLossLevel:number;
+  levrage:number;
+  maxLongMargin:number;
+  longPnl:number;
+  longMargin:number;
+  maxShortMargin:number;
+  shortPnl:number;
+  shortMargin:number;
+  totalProfit:number;
+  totalLoss:number;
+  totalpnl:number;
 }

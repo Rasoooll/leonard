@@ -9,6 +9,8 @@ import {
   BBTrend,
   botPostisions,
   Orders,
+  TradeLog,
+  TradeTest,
 } from "./interfaces";
 
 import csvParser from "csv-parser";
@@ -52,6 +54,7 @@ import {
 import { convertArrayToCSV } from "convert-array-to-csv";
 import { join } from "path";
 import { positionLevrage } from "./config";
+import { BotLog, TradingBot } from "./tradingShipApp/tradingShip";
 
 interface BBinterface {
   name: string;
@@ -120,7 +123,7 @@ export function minOpenSize() {
 }
 const eth = "ETHUSDT";
 
-export class TradingBot {
+export class TradingBotOne {
   // vars
   //   private balance: Balance;
   //   private positions: ccxtBybitPositions[];
@@ -227,25 +230,7 @@ async function writeToFile(data: any, name: string) {
 export class BackTest {
   private results: any[] = [];
   private ticker: Ticker[] = [];
-  public shortPosition: botPostisions = {
-    side: "short",
-    levrage: positionLevrage,
-    initialMargin: 0,
-    positionMargin: 0,
-    liqPrice: 0,
-    positionPrice: 0,
-    entryPrice: 0,
-  };
-  public longPosition: botPostisions = {
-    side: "long",
-    levrage: positionLevrage,
-    initialMargin: 0,
-    positionMargin: 0,
-    liqPrice: 0,
-    positionPrice: 0,
-    entryPrice: 0,
-  };
-  public orders: Orders[] = [];
+  private tradeTest:TradeTest[] = []
   constructor() {
     // createReadStream("./history.csv")
     //   .pipe(parse({ headers: true }))
@@ -268,22 +253,47 @@ export class BackTest {
     //     writeToFile(convertArrayToCSV(this.ticker), "history_check.csv");
     //     writeToFile(convertArrayToCSV(trades), "history_trades.csv");
     //   });
-    createReadStream("./history.csv")
+    createReadStream("./history/historyETH.csv")
       .pipe(parse({ headers: true }))
       .on("error", (error) => console.error(error))
       .on("data", (data) => this.results.push(data))
       .on("end", () => {
         // console.log(results),
         this.ticker = convertHistoryToTicker(this.results);
-        tradingBoat(this.ticker, this.longPosition, this.shortPosition,this.orders);
+        // console.log(this.ticker);
+        // new TradingBot(0.01,30,0.3,0.9,0.95).tradingShip(this.ticker)
+        // tradingShip(
+        //   this.longPosition,
+        //   this.shortPosition,
+        //   this.orders,
+        //   this.ticker,
+        //   this.tradeLogs,
+        //   0.01,20,0.3,0.9,0.95
+        // );
+        this.tradeTest =  new BotLog(this.ticker).start();
+          // let test = new BotLog(this.ticker).test();
         // console.log((this.ticker));
-        console.log("Orders : " , this.orders);
-        
-        console.log("Long position : ", this.longPosition);
-        console.log("Long position : ", this.shortPosition);
+        // console.log("Orders : ", this.orders.length);
 
-        // writeToFile(convertArrayToCSV(this.ticker), "history_check.csv");
+        // console.log("Long position : ", this.longPosition);
+        // console.log("Short position : ", this.shortPosition);
+        // console.log("Orders:" ,this.orders);
+        
+
+        // writeToFile(convertArrayToCSV(this.ticker), "./reports/historyETH_check.csv");
+        // writeToFile(convertArrayToCSV(this.tradeLogs), "./reports/historyETH_Trades.csv");
+        // writeToFile(convertArrayToCSV(this.orders), "./reports/historyETH_Orders.csv");
         // writeToFile(convertArrayToCSV(trades), "history_trades.csv");
+        writeToFile(
+          convertArrayToCSV(this.tradeTest),
+          "./reports/historyETH_AllPosible.csv"
+        );
+        // writeToFile(
+        //   convertArrayToCSV(test.),
+        //   "./reports/historyETH_AllPosible.csv"
+        // );
+        
       });
   }
+
 }
